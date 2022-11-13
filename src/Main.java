@@ -15,5 +15,8 @@ public class Main {
         System.out.println("task5");
         var qwerty = 11;
         System.out.println(qwerty);
+        System.out.println("task 6");
+        var ttt = 155;
+        System.out.println(ttt);
     }
 }
