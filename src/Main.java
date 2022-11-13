@@ -6,5 +6,8 @@ public class Main {
         System.out.println("Задача 2");
         var dog = 15;
         System.out.println(dog);
+        System.out.println("Задача 3");
+        var cucmber = 15;
+        System.out.println(cucmber);
     }
 }
