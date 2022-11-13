@@ -12,5 +12,8 @@ public class Main {
         System.out.println("Задание 4");
         var potatto = 3;
         System.out.println(potatto);
+        System.out.println("task5");
+        var qwerty = 11;
+        System.out.println(qwerty);
     }
 }
