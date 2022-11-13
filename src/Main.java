@@ -9,5 +9,8 @@ public class Main {
         System.out.println("Задача 3");
         var cucmber = 15;
         System.out.println(cucmber);
+        System.out.println("Задание 4");
+        var potatto = 3;
+        System.out.println(potatto);
     }
 }
